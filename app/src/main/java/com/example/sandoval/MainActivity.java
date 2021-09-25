@@ -10,7 +10,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+    //This is a comment
+    
     EditText txtnum1, txtnum2;
     TextView txtResult;
     Button btnAdd, btnSub, btnMult, btnDiv, btnMod;
